@@ -1,5 +1,5 @@
 # Ignore single file
-anoter-file.txt
+new-file.txt
 
 # Ignore all files in bin directory
 bin/
